@@ -11,8 +11,6 @@
 	<groupId>DevLewi</groupId>
 	<artifactId>consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>consumer</name>
-	<description> project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
