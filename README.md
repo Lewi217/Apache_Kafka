@@ -17,7 +17,7 @@
 
     bin/kafka-server-start.sh config/server.properties   
 
-    ensure you clone 
+    ensure you clone https://github.com/Lewi217/Apache_Kafka.git
 
 
 
