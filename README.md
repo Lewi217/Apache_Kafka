@@ -17,6 +17,8 @@
 
     bin/kafka-server-start.sh config/server.properties   
 
+    ensure you clone 
+
 
 
   ![kafka_overview](https://github.com/user-attachments/assets/b8953050-fc96-4b9e-b4d9-c180d275c403)
